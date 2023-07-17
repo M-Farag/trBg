@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		39E444EC2A65E00B0098F84F /* trBg */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = trBg; sourceTree = BUILT_PRODUCTS_DIR; };
+		39E444EC2A65E00B0098F84F /* trbg */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = trbg; sourceTree = BUILT_PRODUCTS_DIR; };
 		39E444EF2A65E00B0098F84F /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -49,7 +49,7 @@
 		39E444ED2A65E00B0098F84F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				39E444EC2A65E00B0098F84F /* trBg */,
+				39E444EC2A65E00B0098F84F /* trbg */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -65,9 +65,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		39E444EB2A65E00B0098F84F /* trBg */ = {
+		39E444EB2A65E00B0098F84F /* trbg */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 39E444F32A65E00B0098F84F /* Build configuration list for PBXNativeTarget "trBg" */;
+			buildConfigurationList = 39E444F32A65E00B0098F84F /* Build configuration list for PBXNativeTarget "trbg" */;
 			buildPhases = (
 				39E444E82A65E00B0098F84F /* Sources */,
 				39E444E92A65E00B0098F84F /* Frameworks */,
@@ -77,9 +77,9 @@
 			);
 			dependencies = (
 			);
-			name = trBg;
+			name = trbg;
 			productName = trBg;
-			productReference = 39E444EC2A65E00B0098F84F /* trBg */;
+			productReference = 39E444EC2A65E00B0098F84F /* trbg */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -109,7 +109,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				39E444EB2A65E00B0098F84F /* trBg */,
+				39E444EB2A65E00B0098F84F /* trbg */,
 			);
 		};
 /* End PBXProject section */
@@ -263,7 +263,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		39E444F32A65E00B0098F84F /* Build configuration list for PBXNativeTarget "trBg" */ = {
+		39E444F32A65E00B0098F84F /* Build configuration list for PBXNativeTarget "trbg" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				39E444F42A65E00B0098F84F /* Debug */,
